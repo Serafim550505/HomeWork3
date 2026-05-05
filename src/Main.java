@@ -84,7 +84,7 @@ public class Main {
         eggs = eggs * 4;
         float breakfastWeight = banana + milk + IceCreamSndae + eggs ;
         float kg = breakfastWeight / 1000;
-        System.out.println(("вес завтрака " + breakfastWeight) + " грам =  " + kg + " килограмм ");
+        System.out.println(("вес завтрака " + breakfastWeight) + " грамм =  " + kg + " килограмм ");
 
 
         System.out.println("задача № 7 ");
@@ -114,9 +114,9 @@ public class Main {
         int wageDifferenceM = yearM - yearm;
         int wageDifferenceD = yearD - yeard;
         int wageDifferenceK = yearK - yeark;
-        System.out.println("Маша теперь получает " + Masha + " рублей " + "Годовой доход вырос " + wageDifferenceM);
-        System.out.println("Денис теперь получает " + Denis + " рублей " + "Годовой доход вырос " + wageDifferenceD);
-        System.out.println("Кристина теперь получает " + Kristina + " рублей " + "Годовой доход вырос. " + wageDifferenceK);
+        System.out.println("Маша теперь получает " + Masha + " рублей  " + "Годовой доход вырос на " + wageDifferenceM);
+        System.out.println("Денис теперь получает " + Denis + " рублей  " + "Годовой доход вырос на " + wageDifferenceD);
+        System.out.println("Кристина теперь получает " + Kristina + " рублей " + "Годовой доход вырос на " + wageDifferenceK);
 
 
 
